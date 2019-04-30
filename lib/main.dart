@@ -1,3 +1,6 @@
+//Fazer dowload do arquivo json com a ApiKey da Google
+
+
 import 'dart:io';
 
 import 'package:firebase_auth/firebase_auth.dart';
